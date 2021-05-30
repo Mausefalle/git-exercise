@@ -1,1 +1,2 @@
-This is the first part.
+This is the first part. 
+Lets add another text to the first part.
