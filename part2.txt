@@ -1,1 +1,2 @@
 This is the second part of the folder.
+I am adding this on the second part on the other branch.
